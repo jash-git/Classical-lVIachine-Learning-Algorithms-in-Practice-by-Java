@@ -1,0 +1,93 @@
+总共用时：  29ms
+共15个分类器
+第1个分类器为：
+取的特征为： petalWidth，阈值为： 1.60
+  1,	petalWidth<1.60
+  -1,	petalWidth>=1.60
+权重：  1.4722194895832201
+
+第2个分类器为：
+取的特征为： petalLength，阈值为： 4.83
+  1,	petalLength<4.83
+  -1,	petalLength>=4.83
+权重：  0.8369882167858371
+
+第3个分类器为：
+取的特征为： petalLength，阈值为： 5.14
+  1,	petalLength<5.14
+  -1,	petalLength>=5.14
+权重：  0.8000460250079325
+
+第4个分类器为：
+取的特征为： sepalLength，阈值为： 6.51
+  -1,	sepalLength<6.51
+  1,	sepalLength>=6.51
+权重：  0.5930440345699126
+
+第5个分类器为：
+取的特征为： petalLength，阈值为： 4.92
+  1,	petalLength<4.92
+  -1,	petalLength>=4.92
+权重：  0.36266810438685104
+
+第6个分类器为：
+取的特征为： petalWidth，阈值为： 1.71
+  1,	petalWidth<1.71
+  -1,	petalWidth>=1.71
+权重：  0.3988492895281391
+
+第7个分类器为：
+取的特征为： sepalWidth，阈值为： 2.81
+  -1,	sepalWidth<2.81
+  1,	sepalWidth>=2.81
+权重：  0.39910856159594166
+
+第8个分类器为：
+取的特征为： petalWidth，阈值为： 1.41
+  1,	petalWidth<1.41
+  -1,	petalWidth>=1.41
+权重：  0.42078708636524503
+
+第9个分类器为：
+取的特征为： petalLength，阈值为： 5.14
+  1,	petalLength<5.14
+  -1,	petalLength>=5.14
+权重：  0.5544542502927424
+
+第10个分类器为：
+取的特征为： sepalWidth，阈值为： 3.10
+  -1,	sepalWidth<3.10
+  1,	sepalWidth>=3.10
+权重：  0.43428794678865085
+
+第11个分类器为：
+取的特征为： petalWidth，阈值为： 1.71
+  1,	petalWidth<1.71
+  -1,	petalWidth>=1.71
+权重：  0.3570760996097228
+
+第12个分类器为：
+取的特征为： sepalWidth，阈值为： 2.52
+  -1,	sepalWidth<2.52
+  1,	sepalWidth>=2.52
+权重：  0.4293008874923886
+
+第13个分类器为：
+取的特征为： petalWidth，阈值为： 1.41
+  1,	petalWidth<1.41
+  -1,	petalWidth>=1.41
+权重：  0.3763418850518655
+
+第14个分类器为：
+取的特征为： petalLength，阈值为： 5.14
+  1,	petalLength<5.14
+  -1,	petalLength>=5.14
+权重：  0.4274850277401284
+
+第15个分类器为：
+取的特征为： sepalLength，阈值为： 6.21
+  -1,	sepalLength<6.21
+  1,	sepalLength>=6.21
+权重：  0.41513495550387186
+
+测试数据共20个，正确19个，错误1个
